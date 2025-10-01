@@ -1,0 +1,9 @@
+[Icon Theme]
+Name=Craxel's Icon Pack
+Comment=The classic set of Roblox Instance icons with some changes and new icons. Also changes game settings icon and avatar settings icon.
+Author=NotCraxel
+Inherits=Roblox
+
+[standard]
+Size=16
+scale=1
